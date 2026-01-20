@@ -14,8 +14,8 @@ Actuellement disponible pour un **CDD ou CDI** (Mobile France Entière), je prop
 Je privilégie les outils robustes pour le traitement et la visualisation de données :
 
 * **🐍 Python :** `Pandas`, `NumPy`, `ETL Pipelines`, `Data Quality`, `JSON Serializer`.
-* **🗄️ SQL :** Requêtes complexes (Joins/Subqueries), DDL/DML, Complex Aggregations.
-* **📊 Visualization :** Power BI, Excel (Advanced formulas).
+* **🗄️ SQL :** Requêtes complexes (**Window Functions**, **CTEs**, Joins), DDL/DML, Modélisation.
+* **📊 Visualization :** Excel (Advanced formulas) & Power BI.
 * **🧠 Theory :** Statistiques descriptives & inférentielles, Algèbre linéaire.
 
 ---
@@ -38,7 +38,7 @@ Parce qu'en Data, *"le code parle mieux que les mots"*, voici mes projets phares
 
 **Le Challenge :** Structurer et auditer les données des "Concours Grandes Écoles" pour l'aide à la décision.
 * **Modélisation (DDL) :** Architecture relationnelle complexe (5 tables) avec gestion des clés primaires/étrangères (`concours`, `epreuve`, `matiere`).
-* **Analyse (DQL) :** Extraction d'indicateurs de performance via des jointures multiples et agrégations (`GROUP BY`, `SUM`).
+* **Analyse (DQL) :** Extraction d'indicateurs de performance via des jointures multiples et agrégations complexes.
 * **Résultat :** Identification précise des charges horaires et analyse des coefficients par filière.
 * **Tech :** `SQL Avancé`, `Joins`, `Data Cleaning`, `Reporting`.
 
@@ -48,7 +48,7 @@ Parce qu'en Data, *"le code parle mieux que les mots"*, voici mes projets phares
 
 **L'habit ne fait pas le moine, c'est le terrain qui juge.**
 
-* **✅ Fiabilité & Résilience :** 5 saisons consécutives chez **ELIS** (Production industrielle). J'y ai acquis une éthique de travail irréprochable : productivité sous pression et respect des délais.
+* **✅ Fiabilité & Résilience :** **5 saisons** en production industrielle chez **ELIS**. Une expérience terrain qui m'a appris la productivité sous pression et le respect absolu des délais.
 * **✅ Rigueur Scientifique :** Une approche méthodique héritée de ma **Licence de Mathématiques**.
 * **✅ Adaptabilité :** Capacité à m'intégrer rapidement à des équipes et des environnements exigeants.
 
