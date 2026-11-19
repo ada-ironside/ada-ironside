@@ -4,7 +4,7 @@
 
 > **"Transformer la complexité des données en leviers de décision stratégique."**
 
-Business Data Analyst issu d'un parcours rigoureux en **Mathématiques** (Licence & début de Master), je ne cherche pas seulement à apprendre, je cherche à produire.
+Business Data Analyst fort d'un parcours rigoureux en **Mathématiques** (Licence & début de Master), je ne cherche pas seulement à apprendre, je cherche à produire.
 
 J'intègre la formation **Business Data Analyst** (Titre RNCP niveau 7 / Bac +5, n° 39591) à l'**École Liora (groupe DataScientest)**, en partenariat avec **Mines Paris - PSL Executive Education**, et je recherche activement mon entreprise d'accueil pour un **contrat d'apprentissage de 24 mois** :
 * 📅 **Rythme :** 3 semaines en entreprise / 1 semaine en formation
